@@ -6,3 +6,6 @@ edit, edit, edit
 
 # i kolejne edytowanie
 edit again
+
+# domowe
+edit local
